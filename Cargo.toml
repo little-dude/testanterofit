@@ -1,0 +1,7 @@
+[package]
+name = "testanterofit"
+version = "0.1.0"
+authors = ["Corentin Henry <corentinhenry@gmail.com>"]
+
+[dependencies]
+anterofit = { git = "https://github.com/little-dude/anterofit", branch = "generic-service" }
